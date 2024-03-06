@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is a Server Side Branch Created on a local machine
+=======
+This is a Server Side Branch Created on a local machine
+Bug A Fixed...
+>>>>>>> Bug-A-Fix
